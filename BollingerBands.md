@@ -1,0 +1,2 @@
+* There are three lines that compose Bollinger Bands: A simple moving average (middle band) and an upper and lower band.
+* The upper and lower bands are typically 2 standard deviations +/- from a 20-day simple moving average, but can be modified.
